@@ -1,0 +1,9 @@
+openai
+langchain~=0.1.9
+faiss-cpu
+streamlit
+PyPDF2
+sentence-transformers
+chromadb~=0.4.24
+pandas~=2.2.1
+python-dotenv~=1.0.1
